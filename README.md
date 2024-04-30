@@ -72,6 +72,40 @@ This outline contains an example of a ticket's lifecycle within an IT Help Desk 
 ![Screenshot 2024-04-28 191414](https://github.com/kbd060/ticket-lifecycle/assets/150099961/6ea32226-bf12-4146-812a-635baa7db212)
 
 
+<h2>Ticket Resolution (Help Desk Agent)</h2>
+
+<p> 
+1) Log in as Jane Doe, and access ticket #117214 ("Entire mobile online banking is down"). 
+
+![Screenshot 2024-04-28 195629](https://github.com/kbd060/ticket-lifecycle/assets/150099961/419d935a-e566-4d75-8b66-1763daf3f1a9)
+![Screenshot 2024-04-28 195818](https://github.com/kbd060/ticket-lifecycle/assets/150099961/d5a2f11f-f2b2-4a9e-a928-1d1e77f2aa61)
+
+<p> 
+2) Update the ticket's priority level to "Emergency", noting the reason why ("Business impacting event").
+
+![Screenshot 2024-04-28 200315](https://github.com/kbd060/ticket-lifecycle/assets/150099961/3b89d0df-f0ea-45f9-baa0-635540513a7b)
+![Screenshot 2024-04-28 200334](https://github.com/kbd060/ticket-lifecycle/assets/150099961/a91d6ef5-a7a3-4f88-b82a-95b7725a7491)
+
+<p>
+3) Update the ticket's SLA Plan to "SEV-A", noting the reason why ("Business impacting event").
+
+![Screenshot 2024-04-28 202115](https://github.com/kbd060/ticket-lifecycle/assets/150099961/dd16e56c-589f-4573-8b34-a7aa1bb8eba5)
+![Screenshot 2024-04-28 202128](https://github.com/kbd060/ticket-lifecycle/assets/150099961/456d0f6f-fe8d-427f-aa4e-66d9bba3785d)
+
+<p>
+4) Transfer the ticket from the Support department to the System Administrators department, noting the reason why ("Sys Admins responsible for mobile banking infrastructure").
+
+![Screenshot 2024-04-28 202812](https://github.com/kbd060/ticket-lifecycle/assets/150099961/c17d2df2-b949-46c4-a55e-c75620c827f8)
+![Screenshot 2024-04-28 205527](https://github.com/kbd060/ticket-lifecycle/assets/150099961/30f7d650-ac94-4a3d-9a61-cb25fafce441)
+
+<p>
+5) Provide Karen updates on her ticket by posting replies within the ticket thread ("Coordinating with Sys Admin team to bring mobile banking back online." "Jerry from System Engineering found and corrected a failed load balancer. Mobile banking should be back up"). Resolve the ticket.
+
+![Screenshot 2024-04-28 205849](https://github.com/kbd060/ticket-lifecycle/assets/150099961/a119d880-f976-4dcd-9f19-a0bae522c2ca)
+![Screenshot 2024-04-28 210212](https://github.com/kbd060/ticket-lifecycle/assets/150099961/dcdc090e-70ae-4ca6-b9cb-80423217be74)
+![Screenshot 2024-04-29 204652](https://github.com/kbd060/ticket-lifecycle/assets/150099961/67ee5f8f-b0d3-4cd6-a1f5-79ce0af71dd9)
+![Screenshot 2024-04-29 204725](https://github.com/kbd060/ticket-lifecycle/assets/150099961/07602e5f-d54c-4976-a668-c5733a199c54)
+![Screenshot 2024-04-29 205457](https://github.com/kbd060/ticket-lifecycle/assets/150099961/b496b9d5-1583-483f-9568-093481878dfb)
 
 
 
